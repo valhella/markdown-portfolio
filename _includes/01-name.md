@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Val Masters
+## University of Toronto 
+## Faculty of Information
